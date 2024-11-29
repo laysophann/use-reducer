@@ -1,1 +1,0 @@
-web: json-server --watch questions.json --port $PORT

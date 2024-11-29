@@ -1,3 +1,4 @@
+
 This React Quiz App is mainly focused on using react hook : useReducer.
 The features of this app contains: 
 -progress bar which indicates the number of questions

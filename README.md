@@ -1,9 +1,10 @@
+React Quiz App
+This React Quiz App demonstrates the use of the useReducer hook for state management.
 
-This React Quiz App is mainly focused on using react hook : useReducer.
-The features of this app contains: 
--progress bar which indicates the number of questions
--score tracking
--time tracking
--keeping the highest scores of the previous quiz score you got
--finish button which display your score and highest score
--restart button that allow you to start do the quiz again.
+Features
+Progress Bar: Displays the number of questions answered.
+Score Tracking: Tracks your current score during the quiz.
+Time Tracking: Monitors the time taken to complete the quiz.
+Highest Score Tracking: Saves and displays your highest quiz score.
+Finish Button: Shows your current score and the highest score after completing the quiz.
+Restart Button: Allows you to restart the quiz and try again.

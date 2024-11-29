@@ -7,3 +7,4 @@ This React Quiz App demonstrates the use of the useReducer hook for state manage
     -Highest Score Tracking: Saves and displays your highest quiz score.
     -Finish Button: Shows your current score and the highest score after completing the quiz.
     -Restart Button: Allows you to restart the quiz and try again.
+    -Use json-server as its API to serve JSON data and My JSON Server to accessible publicly
